@@ -1,33 +1,36 @@
 # Website Paguyuban Kelas Teknik Komputer B '26
 
-Website statis sederhana ini dikembangkan sebagai bentuk pemenuhan tugas akhir rangkaian **Weekly Meet Catalyst (Build Together: Collaborative Mini Project)**. Website ini berfungsi sebagai pusat informasi kegiatan, profil pengurus, dan dokumentasi kebersamaan mahasiswa Kelas Teknik Komputer B Angkatan 2026 di Fakultas Teknik, Universitas Jenderal Soedirman.
+Website statis resmi profil dan pusat informasi mahasiswa **S-1 Teknik Komputer Kelas B Angkatan 2026**, Fakultas Teknik, Universitas Jenderal Soedirman. Dibangun sebagai tugas akhir kolaborasi *Weekly Meet Catalyst (Build Together: Collaborative Mini Project)*.
 
----
+## Anggota Kelompok
+1. **Rafli Rusdiana Sadeli** - [@rafli1407](https://github.com/rafli1407)
+2. **Umairoh Agustina (Mai)** - [@umairohagustina2-cmd](https://github.com/umairohagustina2-cmd)
+3. **Keyshia Shakila Eshan** - [@keyshiashakilaeshan-cpu](https://github.com/keyshiashakilaeshan-cpu)
+4. **Atha Aulia Rahma** - [@athaullia07](https://github.com/athaullia07)
 
-## 🎯 Tujuan & Latar Belakang Project
-Project ini dibangun untuk menerapkan alur kolaborasi pengembangan perangkat lunak menggunakan **Git dan GitHub** (mulai dari pembuatan *repository*, pembagian *issues*, percabangan *branch*, *commit*, *Pull Request*, hingga proses *code review*). Secara fungsional, website ini juga menjadi media komunikasi internal kelas agar informasi akademik maupun kegiatan angkatan dapat diakses secara transparan.
+## Tujuan & Latar Belakang Project
+Project ini dibuat sebagai wadah koordinasi dan identitas digital mahasiswa Teknik Komputer Kelas B 2026 Unsoed untuk memperkenalkan profil kelas, visi-misi, struktur pengurus inti, daftar anggota kelas, kegiatan rutin, serta kanal kontak resmi kelas secara terpusat.
 
----
+## Fitur & Section Website
+- **Home / Hero Section:** Identitas kelas, foto bersama, dan tombol navigasi utama.
+- **About / Tentang Kelas & Visi Misi:** Penjelasan latar belakang serta visi dan misi kelas Tekkom B '26.
+- **Struktur Pengurus & Daftar Anggota Kelas:** Profil pengurus inti dan daftar anggota kelas beserta foto dan NIM.
+- **Main Content (Kegiatan Kelas):** Dokumentasi kegiatan rutin mahasiswa (I-Gradz, Batik Day).
+- **Contact & Footer:** Informasi media sosial resmi (`@tekkomunsoed26`), email, lokasi kampus, dan footer.
 
-## 🧩 Fitur & Section Utama Website
-Website ini dirancang dengan format *single-page* responsif yang mencakup empat bagian utama:
-1. **Home / Hero Section**: Berjudul identitas kelas, deskripsi singkat instansi (Fakultas Teknik, Unsoed), serta tampilan foto bersama (`photos/main.jpg`)[cite: 1, 2].
-2. **Profil & Pengurus Kelas (About)**: Memuat latar belakang organisasi serta struktur pengurus inti (PJ Kelas, PJ Mata Kuliah, dan Bendahara) yang tersusun secara responsif (1 kolom di perangkat mobile dan 4 kolom di desktop) lengkap dengan foto, nama, dan NIM[cite: 1, 2].
-3. **Kegiatan Kelas (Main Content)**: Berisi dokumentasi program dan kegiatan rutin seperti *I-Gradz* (Chant penyambutan wisudawan) dan *Batik Day*[cite: 2].
-4. **Kontak & Footer**: Informasi media sosial resmi (@tekkomunsoed26) serta penutup halaman[cite: 2].
+## Teknologi yang Digunakan
+- HTML5
+- CSS3 & Tailwind CSS (via CDN)
+- JavaScript Dasar
+- Git & GitHub untuk kolaborasi tim
 
----
+## Dokumentasi Tampilan Website
 
-## 🛠️ Teknologi yang Digunakan
-* **HTML5**: Struktur dasar kerangka halaman web[cite: 1, 2].
-* **Tailwind CSS (via CDN)**: Kerangka kerja CSS untuk styling tata letak dan desain responsif[cite: 1, 2].
-* **CSS Kustom (`style.css`)**: Penyesuaian properti tambahan (*smooth scrolling*).
-* **Git & GitHub**: Kontrol versi dan platform kolaborasi tim[cite: 1, 4].
+### 1. Halaman Utama (Hero Section)
+![Halaman Utama](./screenshots/1.png)
 
----
+### 2. Bagian About, Pengurus dan Anggota
+![About dan Pengurus](./screenshots/2.png)
 
-## 💻 Cara Menjalankan Website Secara Lokal
-Untuk menjalankan dan melihat website ini di komputer atau laptop kamu:
-1. Clone repository ini ke perangkatmu atau unduh sebagai ZIP:
-   ```bash
-   git clone [https://github.com/USERNAME/NAMA-REPOSITORY.git](https://github.com/USERNAME/NAMA-REPOSITORY.git)
+### 4. Kegiatan Kelas & Kontak
+![Kegiatan dan Kontak](./screenshots/3.png)
