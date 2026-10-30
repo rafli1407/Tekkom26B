@@ -27,10 +27,13 @@ Project ini dibuat sebagai wadah koordinasi dan identitas digital mahasiswa Tekn
 ## Dokumentasi Tampilan Website
 
 ### 1. Halaman Utama (Hero Section)
-![Halaman Utama](./screenshots/1.png)
+![Halaman Utama](./screenshots/home-red.png)
 
-### 2. Bagian About, Pengurus dan Anggota
-![About dan Pengurus](./screenshots/2.png)
+### 2. Bagian About & Pengurus Kelas
+![About dan Pengurus](./screenshots/about-red.png)
+
+### 3. Daftar Anggota Kelas
+![Daftar Anggota](./screenshots/anggota-red.png)
 
 ### 4. Kegiatan Kelas & Kontak
-![Kegiatan dan Kontak](./screenshots/3.png)
+![Kegiatan dan Kontak](./screenshots/kontak-red.png)
